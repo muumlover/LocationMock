@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocationMock</string>
+    <string name="action_settings">设置</string>
+    <string name="address_delimiter">" • "</string>
+    <string name="target_location">目标位置</string>
+    <string name="menu_mock_point">位置模拟</string>
+    <string name="long_lat">经纬度：</string>
+</resources>
